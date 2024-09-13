@@ -11,7 +11,7 @@
 <a href="https://tag-de.tistory.com">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
-
+<br>
 ## 💻배우고 있는 것들💻
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
