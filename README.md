@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20To%20UNNI's%20GitHub%20👏👋🙌&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20To%20UNNI's%20GitHub👋&fontSize=40&fontAlign=64)
 
 <div align=center>
 
